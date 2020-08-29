@@ -28,17 +28,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/cXPsz0w" data-context="false" ><a href="//imgur.com/a/cXPsz0w"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://raw.githubusercontent.com/majinE/tipCalculator495/master/preworkiOS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had trouble following some of the content on the codepath walkthrough and video as the version of XCode is different from the one used in the examples so the features of XCode are slightly different
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Edgar M. Reyes]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
